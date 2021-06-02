@@ -1,0 +1,68 @@
+
+body, html {
+	height: 100%;
+	width: 100%;
+	font-family: 'Montserrat', sans-serif;
+	background: url(sfondostartup.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-size: larger;
+
+}
+li {
+    list-style: none;
+    display: inline-block;
+    color: blue;
+}
+
+.btnlm {
+	color: white;
+	background-color:orangered;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	margin-left: 900px;
+	width: 150px;
+	height: 50px;
+	margin-top: 600px;
+
+
+}
+
+.btnlm:hover {
+	color: white;
+	background-color:deepskyblue;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	margin-left: 900px;
+	width: 150px;
+	transform: scale(1.1);
+	height: 50px;
+	margin-top: 600px;
+
+}
+hr{
+	border-color: orangered;
+	border-width: 85px;
+	max-width: 65px;
+	height: 20px;
+	
+}
+h1 {
+	color: azure;
+	font-size: larger;
+	position:absolute; top:550px; left:800px;
+	padding: 18px;
+	text-align: center;
+	font-family: sans-serif;
+	text-transform: uppercase;
+
+	
+}
+
+.buffer {
+	height: 50px;
+}
